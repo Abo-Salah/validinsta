@@ -23,6 +23,13 @@ pip3 install argparse torrequest
 
 apt-get install tor
 
+#Configuring Tor server
+
+open tor configuration file /etc/tor/torrc
+
+deleting the # before 'ControlPort':
+
+#ControlPort 9051
 
 # usage 
 restart tor service: service tor restart
