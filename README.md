@@ -27,7 +27,7 @@ apt-get install tor
 
 open tor configuration file /etc/tor/torrc
 
-deleting the # before 'ControlPort':
+delete the # before 'ControlPort':
 
 #ControlPort 9051
 
