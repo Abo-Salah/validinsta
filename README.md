@@ -23,7 +23,7 @@ pip3 install argparse torrequest
 
 apt-get install tor
 
-#Configuring Tor server
+#Configuring Tor server:
 
 open tor configuration file /etc/tor/torrc
 
