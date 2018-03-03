@@ -24,7 +24,7 @@ pip3 install argparse torrequest
 apt-get install tor
 
 
-#usage
+# usage 
 restart tor service: service tor restart
 
 python3 validinsta.py emailsfiletocheck filetosavevalis
